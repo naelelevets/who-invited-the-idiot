@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Who Invited the Idiot? — Voice Quiz",
+  "short_name": "Idiot Quiz",
+  "description": "One phone. Everyone shouts. A rapid-fire voice quiz.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020503",
+  "theme_color": "#020503",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
